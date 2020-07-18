@@ -28,15 +28,15 @@ class ReactionViewPods @JvmOverloads constructor(
 
     private fun setUpListener() {
         tvLike.setOnClickListener {
-
+            mDelegate?.onTapLike()
         }
 
         tvComment.setOnClickListener {
-
+            mDelegate?.onTapComment()
         }
 
         tvShare.setOnClickListener {
-            
+            mDelegate?.onTapShare()
         }
     }
 

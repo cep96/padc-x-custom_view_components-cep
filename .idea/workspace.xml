@@ -7,7 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a890d09-9556-41ce-9114-f585e72a155c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/delegates/NewsItemDelegate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/delegates/NewsItemDelegate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/mvp/presenters/MainPresenterImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/mvp/presenters/MainPresenterImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewholder/NewsSmallViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewholder/NewsSmallViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewholder/NewsViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewholder/NewsViewHolder.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewpods/ReactionViewPod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/viewpods/ReactionViewPod.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_news.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_news.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_news_smalll.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_news_smalll.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_pod_reaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_pod_reaction.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +62,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -114,5 +126,27 @@
       <updated>1595087706522</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1595089675049">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="419" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1595089675049" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1595090493749">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1595090493749" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1595090493748">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1595090493748" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1595090493747">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1595090493747" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1595090493749">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1595090493749" />
   </component>
 </project>
