@@ -10,15 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a890d09-9556-41ce-9114-f585e72a155c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/activities/FanControlActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/components/DialView.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fan_control.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/activities/CustomComponentsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/activities/CustomComponentsActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_components.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_components.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/components/DialView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/padcmyanmar/padcx/padc_x_recyclerview_ypst/veiws/components/DialView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fan_control.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fan_control.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,10 +146,10 @@
     </state>
     <state x="419" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1595089675049" />
     <state x="419" y="133" key="#com.intellij.ide.util.MemberChooser/0.23.1280.715@0.23.1280.715" timestamp="1595122171472" />
-    <state x="495" y="244" key="AndroidCreateXmlResourceDialog" timestamp="1595659074064">
+    <state x="495" y="244" key="AndroidCreateXmlResourceDialog" timestamp="1595660527959">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="495" y="244" key="AndroidCreateXmlResourceDialog/0.0.1280.800@0.0.1280.800" timestamp="1595659074064" />
+    <state x="495" y="244" key="AndroidCreateXmlResourceDialog/0.0.1280.800@0.0.1280.800" timestamp="1595660527959" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1595656190542">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
