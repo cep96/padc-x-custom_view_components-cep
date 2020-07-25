@@ -67,7 +67,7 @@ class EmotionalFaceView(context: Context?, attrs: AttributeSet?) : View(context,
             mouthPath.quadTo(size * 0.5f, size * 0.50f, size * 0.78f, size * 0.7f)
             mouthPath.quadTo(size * 0.5f, size * 0.60f, size * 0.22f, size * 0.7f)
         }
-        
+
         paint.color = mouthColor
         paint.style = Paint.Style.FILL
 
